@@ -47,6 +47,4 @@ The system integrates ESP32-based hardware with a Flask backend, a web interface
 
 ---
 
-## Project Type
 
-Individual project developed for academic and interview purposes.
