@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sanjeevani Sync</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<header>
+    <h1>Sanjeevani Sync</h1>
+    <p>Smart Medicine Reminder System</p>
+</header>
+
+<section>
+    <h2>About</h2>
+    <p>
+        Sanjeevani Sync helps users take medicines on time using an IoT-based
+        smart reminder and alert system integrated with ESP32 and a web platform.
+    </p>
+</section>
+
+<section>
+    <h2>Features</h2>
+    <ul>
+        <li>Remote medicine scheduling</li>
+        <li>Automatic dispenser opening</li>
+        <li>Missed dose alerts</li>
+        <li>Email notification to caregivers</li>
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; 2025 Sanjeevani Sync</p>
+</footer>
+
+</body>
+</html>
